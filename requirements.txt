@@ -1,0 +1,11 @@
+%%writefile requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
+pyngrok
+joblib
+shap
+plotly
