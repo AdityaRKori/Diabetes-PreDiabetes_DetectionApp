@@ -1,5 +1,0 @@
-# Please copy and paste the output from the !pip freeze command below this line.
-# Example:
-# pandas==1.5.3
-# numpy==1.23.5
-# etc.
