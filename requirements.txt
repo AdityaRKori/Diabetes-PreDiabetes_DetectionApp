@@ -3,3 +3,9 @@
 # pandas==1.5.3
 # numpy==1.23.5
 # etc.
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+openpyxl
